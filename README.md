@@ -10,9 +10,9 @@ the class spawnsun was supposed to create several planets orbiting around the su
 # What I am most proud of in the assignment
 I'm most proud of making the sphere. which i\I call sun. Instead of using the function sphere(). I found out that if I wanted to interact with the "sun" I need to create the sphere myself so that I could acesses the different points of the sun. Doing this required math and the use of Pvektors. 
 # Classes
-Illuminate was used to test code and play around with shapes without filling in colours to better understand bahviour. 
-firwork was expeirmenting with the rotations shwon from skeleton code. 
-spawnsun, was going to implement sever suns spawning around the field of view.
-oceanwave is the main class to be run. this is where the code got implement after it was tested in the other classes. 
+-Illuminati was used to test code and play around with shapes without filling in colours to better understand behaviour. 
+-firwork was experementing with the rotations shown from skeleton code. 
+-spawnsun was going to implement sever suns spawning around the field of view.
+-oceanwave is the main class to be run. this is where the code got implement after it was tested in the other classes. 
 
 
