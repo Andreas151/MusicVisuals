@@ -1,89 +1,14 @@
 # Music Visualiser Project
 
-Name:
+Name: Andreas Ellingsen Natvik
 
-Student Number: 
-
-## Instructions
-- Fork this repository and use it a starter project for your assignment
-- Create a new package named your student number and put all your code in this package.
-- You should start by creating a subclass of ie.tudublin.Visual
-- There is an example visualiser called MyVisual in the example package
-- Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
-
-# Description of the assignment
-
-# Instructions
+Student Number: C19769669
 
 # How it works
-
+the Program runs when you hit f5, the waves will allready be there making waves from left to right as a standard when the program runs. 
+hitting the space key will start the music and thats when the waves change diractions instead of left to right it goes back to front, the musicals amplitude. changes the direction of the wave and the hight of every wave accordingly. pressing the key 'b' will change the speed of the waves to increase making it seem like a faster/ wilder ocean. the key 'c' will change the colour of the tringle strips to change into a rainbow colored wave. the key'1' changes it from the waves to sun.
+the class spawnsun was supposed to create several planets orbiting around the sun from oceanwave. how ever I was not able to get it working even thoe i know I'm very close. I kept getting a null pointer exeption error. this was my biggest problem as it was a big part of my original idea.
 # What I am most proud of in the assignment
+I'm most proud of making the sphere. which i\I call sun. Instead of using the function sphere(). I found out that if I wanted to interact with the "sun" I need to create the sphere myself so that I could acesses the different points of the sun. Doing this required math and the use of Pvektors. 
 
-# Markdown Tutorial
-
-This is *emphasis*
-
-This is a bulleted list
-
-- Item
-- Item
-
-This is a numbered list
-
-1. Item
-1. Item
-
-This is a [hyperlink](http://bryanduggan.org)
-
-# Headings
-## Headings
-#### Headings
-##### Headings
-
-This is code:
-
-```Java
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-So is this without specifying the language:
-
-```
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-This is an image using a relative URL:
-
-![An image](images/p8.png)
-
-This is an image using an absolute URL:
-
-![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
-
-This is a youtube video:
-
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
-
-This is a table:
-
-| Heading 1 | Heading 2 |
-|-----------|-----------|
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
 
